@@ -19,3 +19,24 @@ right();
 up();
 Function(Transport)
 right();
+
+// down();
+// down();
+// down();
+// down();
+// right();
+
+// function move () {
+//   var A = getColor()
+//     down();
+//     setColor(A);
+// }
+
+// move();
+// right();
+// right();
+// right();
+// up();
+// move();
+// right();
+// right();
