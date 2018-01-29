@@ -1,0 +1,26 @@
+puzzle#3
+no parenthese are needed after var, also, there is no if condition.
+lower case setColor 
+
+puzzle#4
+lower case function, getColor
+should be setColor()==sth 
+for var parenthese for (A) and (B) are not neccessary
+if statement should be followed by parentheses
+have to mention the function after setting up to actually use it 
+
+puzzle#5
+{up} should be at next line, same as down, also bracket should be seperated
+space after if condition
+same problems as before :)
+
+puzzle#6
+similar problems :)
+if condition means verifying, should start another line after that
+
+puzzle#7
+similar problems with lines and parenthese after var and if :)
+{GetColor} doesn't seem right should be GetColor()?
+
+puzzle#7
+function has no parenthese, and after setting up you don't have to type again
